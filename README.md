@@ -1,1 +1,1 @@
-# BadmintonResults-Model
+# BadmintonResultsModel
