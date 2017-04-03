@@ -11,4 +11,9 @@ public struct Court {
 	public var name: String
 	public var matches: [Match]
 
+	public init(name: String, matches: [Match]) {
+		self.name = name
+		self.matches = matches
+	}
+	
 }
