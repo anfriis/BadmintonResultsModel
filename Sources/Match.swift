@@ -10,7 +10,7 @@ public struct Match {
 	
 	public var time: String
 	public var category: String
-	public var score: Score
+	public var score: Score?
 	public var duration: String?
 
 	public var leftPlayers: Players
