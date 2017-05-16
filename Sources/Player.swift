@@ -9,7 +9,7 @@
 public struct Player {
 
 	public var name: String
-	public var flagURL: String
+	public var flagURL: String?
 	
 }
 
